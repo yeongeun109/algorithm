@@ -8,6 +8,8 @@ import java.util.StringTokenizer;
 
 public class bj_1010_다리놓기 {
 	
+	static int[][] dp = new int[30][30];
+	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
@@ -17,16 +19,21 @@ public class bj_1010_다리놓기 {
 			st = new StringTokenizer(in.readLine());
 			int N = Integer.parseInt(st.nextToken());
 			int M = Integer.parseInt(st.nextToken());
-
+			//comb(M, N);
 			System.out.println(comb(M, N));
 		}
 	}
 
 	private static int comb(int n, int r) {
-		int res = 1;
-		for(int i = 1; i <= r; i++) {
-			res = res * (n - i + 1) / i;
-		}
-		return res;
+		if(n == r)
+			return 1;
+		
+		if(r == 1)
+			return n;
+		
+		if(dp[n][r] != 0)
+			return dp[n][r];
+		
+		return dp[n][r] = comb(n-1, r-1) + comb(n-1, r);
 	}
 }
