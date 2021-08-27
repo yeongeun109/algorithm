@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class bj_16234_인구이동 {
+public class bj_16234_인구이동_BFS {
 
 	static int N;
 	static int prevCnt = 0, prevPop = 0, prevAvg = 0;

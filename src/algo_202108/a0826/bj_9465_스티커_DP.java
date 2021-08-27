@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class bj_9465_스티커 {
+public class bj_9465_스티커_DP {
 
 	static int[][] dp;
 	

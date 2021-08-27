@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class bj_1976_여행가자 {
+public class bj_1976_여행가자_unionfind {
 	
 	static int[] parents;
 

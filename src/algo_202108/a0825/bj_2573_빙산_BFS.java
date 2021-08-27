@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class bj_2573_빙산 {
+public class bj_2573_빙산_BFS {
 
 	static int N, M;
 	static Queue<int[]> q = new LinkedList<>();
