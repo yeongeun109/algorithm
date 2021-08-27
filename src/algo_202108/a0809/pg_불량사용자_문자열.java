@@ -2,7 +2,7 @@ package algo_202108.a0809;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class pg_불량사용자 {
+public class pg_불량사용자_문자열 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,7 +1,7 @@
 package algo_202108.a0810;
 import java.util.*;
 
-public class pg_단어변환 {
+public class pg_단어변환_문자열 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
