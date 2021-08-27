@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class UNIONFIND_pg_네트워크 {
+public class UF_pg_네트워크 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
