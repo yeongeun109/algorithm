@@ -1,7 +1,7 @@
 package algo_202108;
 import java.util.ArrayList;
 
-public class pg_정수삼각형 {
+public class 구현_pg_정수삼각형 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

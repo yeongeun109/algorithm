@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class bj_1010_다리놓기_DP {
+public class DP_bj_1010_다리놓기 {
 	
 	static int[][] dp = new int[30][30];
 	

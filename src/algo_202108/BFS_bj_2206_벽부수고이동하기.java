@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class bj_2206_벽부수고이동하기 {
+public class BFS_bj_2206_벽부수고이동하기 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));

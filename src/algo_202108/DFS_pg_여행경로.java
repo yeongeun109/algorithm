@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class pg_여행경로 {
+public class DFS_pg_여행경로 {
 	static String[] answer;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

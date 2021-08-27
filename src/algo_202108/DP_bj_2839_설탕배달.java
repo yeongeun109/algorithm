@@ -2,7 +2,7 @@ package algo_202108;
 
 import java.util.Scanner;
 
-public class bj_2839_설탕배달_DP {
+public class DP_bj_2839_설탕배달 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

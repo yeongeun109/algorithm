@@ -1,6 +1,6 @@
 package algo_202108;
 
-public class pg_순위 {
+public class 구현_pg_순위 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

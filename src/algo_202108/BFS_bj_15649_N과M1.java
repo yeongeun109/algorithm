@@ -2,7 +2,7 @@ package algo_202108;
 
 import java.util.Scanner;
 
-public class bj_15649_N과M1_BFS {
+public class BFS_bj_15649_N과M1 {
 
 	static int N, M;
 	static boolean[] selected;

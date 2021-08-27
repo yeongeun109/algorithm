@@ -1,6 +1,6 @@
 package algo_202108;
 import java.util.ArrayList;
-public class pg_모의고사 {
+public class 구현_pg_모의고사 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -3,7 +3,7 @@ package algo_202108;
 import java.util.HashMap;
 import java.util.Map;
 
-public class pg_완주하지못한선수 {
+public class 구현_pg_완주하지못한선수 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

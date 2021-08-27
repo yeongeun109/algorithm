@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class bj_5014_스타트링크 {
+public class BFS_bj_5014_스타트링크 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));

@@ -2,7 +2,7 @@ package algo_202108;
 
 import java.util.Arrays;
 
-public class pg_타겟넘버 {
+public class DFS_pg_타겟넘버 {
 
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {1,1,1, 1, 1}, 3));

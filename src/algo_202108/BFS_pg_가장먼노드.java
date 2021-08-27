@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class pg_가장먼노드 {
+public class BFS_pg_가장먼노드 {
 	static int[] cost;
 	public static void main(String[] args) {
 		int n = 6;

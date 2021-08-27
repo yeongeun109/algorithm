@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 import java.util.PriorityQueue;
 import java.util.Comparator;
 
-public class bj_1753_최단경로 {
+public class 다익_bj_1753_최단경로 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));

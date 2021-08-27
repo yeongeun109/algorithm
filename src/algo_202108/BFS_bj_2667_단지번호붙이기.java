@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class bj_2667_단지번호붙이기_BFS {
+public class BFS_bj_2667_단지번호붙이기 {
 
 	static boolean[][] visited;
 	static int homes = 0;
