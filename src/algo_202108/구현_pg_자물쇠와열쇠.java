@@ -1,6 +1,6 @@
 package algo_202108;
 
-public class 완탐_pg_자물쇠와열쇠 {
+public class 구현_pg_자물쇠와열쇠 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
