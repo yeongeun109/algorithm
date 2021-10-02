@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class 완탐_bj_15684_사다리조작 {
+public class 완탐_bj_15684_사다리조작_미해결 {
 
 	static int N, M, H;
 	static boolean[][] _tmp;
