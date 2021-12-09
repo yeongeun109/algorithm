@@ -14,10 +14,7 @@ public class BFS_bj_16954_움직이는미로탈출 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		for (int i = 0; i < 8; i++) {
-			String str = in.readLine();
-//			for (int j = 0; j < 8; j++) {
-//				arr[i][j] = str.charAt(j);
-//			}
+		        String str = in.readLine();
 			arr[i] = str.toCharArray();
 		}
 
