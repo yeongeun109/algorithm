@@ -23,7 +23,6 @@ public class BFS_bj_16954_움직이는미로탈출 {
 
 		q.offer(new int[] { 7, 0 });
 		boolean flag = false;
-//		visited[7][0] = true;
 		boolean[][] visited;
 		
 		while(!q.isEmpty()) {
