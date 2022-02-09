@@ -1,0 +1,15 @@
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\bin\Debug\net6.0\study.exe
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\bin\Debug\net6.0\study.deps.json
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\bin\Debug\net6.0\study.runtimeconfig.json
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\bin\Debug\net6.0\study.dll
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\bin\Debug\net6.0\ref\study.dll
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\bin\Debug\net6.0\study.pdb
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.csproj.AssemblyReference.cache
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.AssemblyInfoInputs.cache
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.AssemblyInfo.cs
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.csproj.CoreCompileInputs.cache
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.dll
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\ref\study.dll
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.pdb
+C:\Users\DW-PC\Desktop\test\algorithm\csharp\study\study\obj\Debug\net6.0\study.genruntimeconfig.cache
