@@ -19,7 +19,6 @@ public class bj_14567_선수과목 {
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
 		int[] gArr = new int[N + 1];
-		int[] tArr = new int[N + 1];
 		int[] result = new int[N + 1];
 		List<Integer>[] list = new ArrayList[N + 1];
 		
@@ -34,7 +33,6 @@ public class bj_14567_선수과목 {
 			list[from].add(to);
 			gArr[to]++;
 		}
-		tArr = gArr.clone();
 		Queue<Integer> q = new LinkedList<Integer>();
 		
 		for(int i = 1; i <= N; i++) {
@@ -50,7 +48,7 @@ public class bj_14567_선수과목 {
 				int a = q.poll();
 				result[a] = cnt;
 				for(int j = 0; j < list[a].size(); j++) {
-					int temp = --tArr[list[a].get(j)];
+					int temp = --gArr[list[a].get(j)];
 					if(temp == 0) {
 						q.offer(list[a].get(j));
 					}
