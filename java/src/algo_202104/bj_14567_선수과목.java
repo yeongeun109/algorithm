@@ -48,9 +48,10 @@ public class bj_14567_선수과목 {
 				int a = q.poll();
 				result[a] = cnt;
 				for(int j = 0; j < list[a].size(); j++) {
-					int temp = --gArr[list[a].get(j)];
-					if(temp == 0) {
-						q.offer(list[a].get(j));
+					int index = list[a].get(j);
+					int classNum = --gArr[index];
+					if(classNum == 0) {
+						q.offer(index);
 					}
 				}
 			}
