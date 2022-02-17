@@ -15,14 +15,18 @@
     <Compile Remove="KRU_1647_도시분할계획.cs" />
     <Compile Remove="KRU_4386별자리만들기.cs" />
     <Compile Remove="구현_16235나무재태크.cs" />
+    <Compile Remove="구현_17140_이차원배열과연산.cs" />
     <Compile Remove="구현_1722_순열의순서%28미해결%29.cs" />
+    <Compile Remove="구현_20057_마법사상어와토네이도%28미해결%29.cs" />
     <Compile Remove="위상정렬_1005ACMCraft.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="BFS_5427_불.cs" />
     <None Include="KRU_1647_도시분할계획.cs" />
+    <None Include="구현_17140_이차원배열과연산.cs" />
     <None Include="구현_1722_순열의순서(미해결).cs" />
+    <None Include="구현_20057_마법사상어와토네이도(미해결).cs" />
     <None Include="위상정렬_1005ACMCraft.cs" />
   </ItemGroup>
 
