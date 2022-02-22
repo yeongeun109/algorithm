@@ -15,6 +15,7 @@
     <Compile Remove="KRU_1197최소스패닝트리.cs" />
     <Compile Remove="KRU_1647_도시분할계획.cs" />
     <Compile Remove="KRU_4386별자리만들기.cs" />
+    <Compile Remove="구현_15650_N과M%282%29.cs" />
     <Compile Remove="구현_16235나무재태크.cs" />
     <Compile Remove="구현_17140_이차원배열과연산.cs" />
     <Compile Remove="구현_1722_순열의순서%28미해결%29.cs" />
@@ -27,6 +28,7 @@
     <None Include="BFS_16985_Maaaaaaaaaaze(미해결).cs" />
     <None Include="BFS_5427_불.cs" />
     <None Include="KRU_1647_도시분할계획.cs" />
+    <None Include="구현_15650_N과M(2).cs" />
     <None Include="구현_17140_이차원배열과연산.cs" />
     <None Include="구현_1722_순열의순서(미해결).cs" />
     <None Include="구현_18808_스티커붙이기.cs" />
