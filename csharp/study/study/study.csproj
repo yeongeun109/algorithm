@@ -16,6 +16,7 @@
     <Compile Remove="KRU_1197최소스패닝트리.cs" />
     <Compile Remove="KRU_1647_도시분할계획.cs" />
     <Compile Remove="KRU_4386별자리만들기.cs" />
+    <Compile Remove="구현_10836_여왕벌.cs" />
     <Compile Remove="구현_15650_N과M%282%29.cs" />
     <Compile Remove="구현_16235나무재태크.cs" />
     <Compile Remove="구현_17140_이차원배열과연산.cs" />
@@ -24,6 +25,10 @@
     <Compile Remove="구현_20057_마법사상어와토네이도%28미해결%29.cs" />
     <Compile Remove="위상정렬_1005ACMCraft.cs" />
     <Compile Remove="위상정렬_1516_게임개발.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="구현_10836_여왕벌.cs" />
   </ItemGroup>
 
   <ItemGroup>
