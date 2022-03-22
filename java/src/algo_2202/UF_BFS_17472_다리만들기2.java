@@ -3,7 +3,7 @@ package algo_2202;
 import java.io.*;
 import java.util.*;
 
-public class 구현_17472_다리만들기2 {
+public class UF_BFS_17472_다리만들기2 {
 	static int N, M, areaIdx = 0;
 	static int[][] map;
 	static List<Integer>[] areaXList = new List[7];
