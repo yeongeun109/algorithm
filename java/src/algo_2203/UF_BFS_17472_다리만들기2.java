@@ -1,4 +1,4 @@
-package algo_2202;
+package algo_2203;
 
 import java.io.*;
 import java.util.*;
