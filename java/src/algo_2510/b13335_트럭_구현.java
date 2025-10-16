@@ -10,7 +10,6 @@ import java.util.StringTokenizer;
 public class b13335_트럭_구현 {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(in.readLine());
 		int n = Integer.parseInt(st.nextToken()); // 트럭의 수
@@ -25,13 +24,8 @@ public class b13335_트럭_구현 {
 			waitTruck.add(Integer.parseInt(st.nextToken()));
 		}
 		
-		//while(!waitTruck.isEmpty()) {
 		int bridgeWeight = 0;
-		int inCnt = 0;
-		int outCnt = 0;
 		Queue<Integer> bridge = new LinkedList<>(); 
-		int[] loc = new int[n];
-		int start = 0;
 		
 		for(int i = 0; i < w; i++) {
 			bridge.add(0);
